@@ -1,2 +1,7 @@
-# aminBassettoOdonto
-Demo — Amin Bassetto Odontologia (Capão Raso, Curitiba)
+# Amin Bassetto Odontologia
+
+Demo personalizado (Vue 3 + Vite) — Capão Raso, Curitiba.
+
+```bash
+npm install && npm run dev
+```
