@@ -250,7 +250,7 @@ onUnmounted(() => clearInterval(timer))
 @media (prefers-reduced-motion: reduce) {
   .quote-next-enter-active,
   .quote-next-leave-active,
-  .quote and-prev-enter-active,
+  .quote-prev-enter-active,
   .quote-prev-leave-active {
     transition: none;
   }
